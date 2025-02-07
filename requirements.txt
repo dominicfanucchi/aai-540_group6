@@ -1,0 +1,6 @@
+# requirements.txt
+transformers==4.48.2
+torch==2.6.0
+scikit-learn==1.6.1
+boto3==1.36.6
+sagemaker==2.237.3

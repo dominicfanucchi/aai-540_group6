@@ -1,1 +1,46 @@
-# aai-540_group6
+# Group 6 Final Project
+This project is a part of the AAI-540 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
+
+**-- Project Status: Active**
+
+- ### Partner(s)/Contributor(s)
+   * Dominic Fanucchi
+   * Hani Jandali
+   * Carlo Sanchez
+
+## Installation
+To use this project, first clone the repo on your device using the command below:
+```bash
+git init
+git clone https://github.com/dominicfanucchi/aai-540_group6.git
+```
+
+## Project Objective
+
+## About the Dataset
+
+## Approach
+The specific algorithms and networks used were as follows: 
+
+
+These algorithms and networks were implemented through Python, Jupyter Notebooks, and AWS SageMaker Studio.
+
+### Imports and Libraries
+The project relies on the following libraries and packages:
+* `os` - Provides a way of using operating system-dependent functionality.
+* `warnings` - Provides a way to issue warnings and control their behavior.
+* `numpy` - Fundamental package for numerical computations in Python.
+* `pandas` - Data manipulation and analysis library.
+* `matplotlib.pyplot` - Plotting library for creating static, interactive, and animated visualizations.
+* `seaborn` - Statistical data visualization library based on Matplotlib.
+* `%matplotlib inline` - Jupyter magic command for displaying plots inline within Jupyter notebooks.
+
+## Results
+
+## References
+
+## Acknowledgments
+We would like to express our sincere gratitude to... 
+
+## License
+This dataset is licensed under a [CC0 1.0 DEED license](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) - see the [Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en) website for details.
